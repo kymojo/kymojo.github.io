@@ -1,0 +1,46 @@
+The Works of Kyle Johnson
+
+Kyle Johnson
+
+Programmer - Artist - Software Developer
+
+=====================
+< P O R T F O L I O >
+=====================
+
+[ Event Registration Software ]
+
+A software solution developed to streamline the registration and check-in process for job fairs and other events hosted by Career Services at Eastern Washington University. 
+
+==========================
+
+[ Super Cookie Blaster ]
+
+A game programmed in C# .NET using XNA libraries. The game is modeled after the classic arcade game Asteroids. You maneuver a small rocketship through space, using various weapons to destroy large cookies that threaten to destroy your ship.
+
+I created this game by myself as a final project for a .NET class. I created the graphics, a few of the sounds, and did all the programming.
+
+==========================
+
+[ Video Game Trivia Maze ]
+
+A game programmed in C# .NET using WPF for the GUI. The player must answer trivia questions about video games as they traverse a maze, trying to find the trophy at the end.
+
+I created the graphics for the game and designed the question database editor interface. The game was created by myself and three classmates as a final project for a Software Engineering class.
+
+==========================
+
+[ Escape From Space Prison ]
+
+A terminal-based game programmed in Java. The player attempts to navigate their way through procedurally-generated floors and hallways in a prison filled with deadly alien inmates.
+
+The game was created by myself and two of my classmates as a final project for a Design Patterns class. I came up with the idea for the game, designed the combat system and several other features, and used my knowledge of object oriented programming and design patterns to structure the code.
+
+===================
+< A B O U T   M E >
+===================
+
+Hello! My name is Kyle Johnson and I make things.
+
+Thanks for checking me out. ;)
+
