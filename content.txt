@@ -4,43 +4,91 @@ Kyle Johnson
 
 Programmer - Artist - Software Developer
 
+
+// Important Details for Work: project name, your role in the dev cycle, a description of what the code does, a high-level description of how it works, and the skills, programming language, and technology stack used.
+
+
+My Job:
+Description (What and How)
+Skills, Languages, and Technologies Used
+
 =====================
 < P O R T F O L I O >
 =====================
 
 [ Event Registration Software ]
 
-A software solution developed to streamline the registration and check-in process for job fairs and other events hosted by Career Services at Eastern Washington University. 
+<Summary>
+
+This is a software solution developed to streamline the registration and check-in process for job fairs and other events hosted by Career Services at Eastern Washington University. This software was developed by a team of four including myself and has since been developed further for the university by another team.
+
+<How It Works>
+
+The software has three main components: a registration kiosk, pre-registration form, and the database.
+
+The Registration Kiosk is the primary front-end component of the three. The software is loaded onto station computers at the event for use by attendees. It allows users to enter their relevant information for registration, check in, and receive a nametag. The Kiosk interfaces with a Dymo label printer for printing the nametags, as well as a barcode scanner for a quick check-in process for those who pre-registered online.
+
+The pre-registration form functions similar to the Registration Kiosk, however it is hosted online for attendees to register ahead of time for the event. Aside from the basic registration information, the pre-regisration form asks additional survey questions to help improve future events. After registering, these registrants are emailed a barcode on their confirmation of registration (along with a backup code for manual entry) allowing them to check in to the event quickly, without having to enter their information at the Kiosk on-site. 
+
+All of the information provided by registrants is stored in a database online, allowing event coordinators to securely access the information for statistical data. The Registration Kiosk software has a built-in Administrator Tool, password protected to prevent unauthorized usage, that interfaces with the database. The tool allows for registrant look-up and editing, database import and export, adding or removing pre-registration survey questions, configuration of database connection settings, and changing the administrator password.
+
+<Languages and Technologies Used>
+
+For this software, our team utilized C# .NET for the Registration Kiosk and Administrator Tool, MySQL for database querying, and HTML and PHP for the pre-registration form. In addition to the aforementioned Dymo label printer (for nametag printing) and barcode scanner (for quick check-in), we also utilized the Microsoft Office Interop framework for importing and exporting registrant entries to Microsoft Excel files.
+
+< My Job >
+
+I was team lead for this project, overseeing the development process as well as being a part of it. I primarily developed the Registration Kiosk, however I was involved in helping plan, debug, and develop many of the other elements of the software as well. The majority of communication with our client was through me, organizing meetings and ensuring the software was meeting all requirements and expectations.
+
+
+Link: https://github.com/kymojo/SeniorProject2015
+
+Link Plus: https://github.com/dstewartewu/erk
 
 ==========================
 
 [ Super Cookie Blaster ]
 
-A game programmed in C# .NET using XNA libraries. The game is modeled after the classic arcade game Asteroids. You maneuver a small rocketship through space, using various weapons to destroy large cookies that threaten to destroy your ship.
+This is a game I developed, modeled after the classic arcade game Asteroids. The player maneuvers a small rocket ship through space, using various weapons to destroy large cookies that threaten to destroy the ship.
 
-I created this game by myself as a final project for a .NET class. I created the graphics, a few of the sounds, and did all the programming.
+The game was programmed in C# .NET using the XNA libraries. I made the graphics, a few of the sounds, and did all the programming myself.
+
+// Talk about things I learned?
+
+Link: https://github.com/kymojo/SuperCookieBlaster
 
 ==========================
 
 [ Video Game Trivia Maze ]
 
-A game programmed in C# .NET using WPF for the GUI. The player must answer trivia questions about video games as they traverse a maze, trying to find the trophy at the end.
+This is a game I worked on with three of my classmates. The player must answer trivia questions about video games as they traverse a multi-floored maze, trying to find the trophy on the top floor.
 
-I created the graphics for the game and designed the question database editor interface. The game was created by myself and three classmates as a final project for a Software Engineering class.
+The game was programmed using C# .NET and was my first exposure to the language. I created the graphics for the game and designed the question database editor interface.
+
+// Talk about things I learned?
+
+Link: https://github.com/nrgraham23/CSCD350_TriviaMaze
 
 ==========================
 
 [ Escape From Space Prison ]
 
-A terminal-based game programmed in Java. The player attempts to navigate their way through procedurally-generated floors and hallways in a prison filled with deadly alien inmates.
+This is a game I worked on with two of my classmates. It's a terminal-based game where the player attempts to navigate their way through procedurally-generated floors and hallways in a prison filled with deadly alien inmates.
 
-The game was created by myself and two of my classmates as a final project for a Design Patterns class. I came up with the idea for the game, designed the combat system and several other features, and used my knowledge of object oriented programming and design patterns to structure the code.
+I came up with the idea for the game and developed most of the major systems for the game (combat, characters, inventory, and items). I used my knowledge of object oriented programming and design patterns to structure the code.
+
+Link: https://github.com/kymojo/CSCD454Project_SpaceGame
 
 ===================
 < A B O U T   M E >
 ===================
 
-Hello! My name is Kyle Johnson and I make things.
+Hello! My name is Kyle Johnson and I make things. Whatever it is I make, I like to take pride in the work that I do. Whether it's a personal projects or work for an employer or client, I want it to be done well. I'm a detail-oriented person and I care about the little things as well as the big picture. I like to think both creatively and critically and I enjoy finding new ways to approach problems. Organization and planing are important to me, but I strive to be flexible as well.
 
-Thanks for checking me out. ;)
+I am experienced in software design and project management, both independently and on a team. I care about well-organized code and efficiency. I consider myself to be a fast learner and enjoy learning new skills and applying them.
 
+My goal as an artist and developer is to make the world a better place, whether that's creating innovative software solutions or simply making something someone can enjoy.
+
+
+
+Also, Jason Krastins' Steam: fishcatch22
