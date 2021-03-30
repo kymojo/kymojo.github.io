@@ -1,4 +1,4 @@
-# [kymojo.github.io](kymojo.github.io)
+# [kymojo.github.io](https://kymojo.github.io)
 
 **Outdated**
 
